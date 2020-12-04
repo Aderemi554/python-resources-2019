@@ -321,3 +321,12 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
+
+
+### Aderemi's python resources
+
+* https://w3resource.com/python-exercises/string/python-data-type-string-exercise-44.php
+
+* https://www.geeksforgeeks.org/python-program-for-program-for-fibonacci-numbers-2/ 
+
+* https://stackoverflow.com/questions/56452957/alternative-to-triple-nested-loop-in-python
